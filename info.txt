@@ -1,0 +1,33 @@
+Faire une affiche:
+Fond: Mamie la street
+Titre Affiche (Avec effet "GIF")
+Phrase d'accroche
+Bouton "Bande Annonce" (Avce effet "GIF")
+Jour/Horaire
+
+
+Bande Annonce:
+
+
+Site:
+1er partie:
+Titre
+Phrase d'accroche
+Photo de Mamie
+
+2ème parties:
+Fond: Noir
+Jesus d'ombres
+Petite phrase (Pour expliquer ce qu'est le thèatre d'ombre)
+
+3ème parties:
+Présentation des "acteurs"
+Phrase ex: "Présenté par la Fabrik"
+Photo du groupe (ex: Raclette)
+
+4ème parties:
+Bande Annonce avec le bouton
+Jour/Horaire
+
+5ème parties:
+Crédit (Participants)
